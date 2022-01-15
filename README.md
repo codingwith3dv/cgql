@@ -1,3 +1,6 @@
+# ⚠ note
+> The repository has been moved to https://github.com/cgql/cgql. All the new features and releases will be on the new repository!
+
 # cgql
 An implementation of GraphQL Service in C++, made from reference of official specifications! 😎 
 
